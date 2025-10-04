@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "task": "Learn Rust basics",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "task": "Deploy the CLI app to crates.io",
+    "completed": false
+  }
+]
