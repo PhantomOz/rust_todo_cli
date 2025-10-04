@@ -64,7 +64,7 @@ You need to have the Rust toolchain (including `rustc` and `cargo`) installed. Y
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/PhantomOz/rust_todo_cli.git
     cd rust_todo_cli
     ```
 
